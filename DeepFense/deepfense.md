@@ -4,8 +4,6 @@
 
 [DeepFense](https://arxiv.org/pdf/1709.02538.pdf) is published on ICCAD 2018. See the paper for its details.
 
-However, [its code repo](https://github.com/Bitadr/DeepFense) does not provide source code but compiled python bytecode instead. To compare with it, we have to implement the algorithm. This folder contains the implementation on MNIST with a few models. For DeepXplore, we use the LeNet-4.
-
 ## Models
 
 The model used by the authors are used to verify the correctness of the implementation.
